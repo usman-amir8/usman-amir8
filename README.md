@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Usman Amir
 
-I'm a React Native developer specializing in building high-performance, cross-platform mobile apps with **TypeScript** and **clean architecture**. I focus on writing elegant, scalable code and delivering user-first experiences that solve real-world problems with precision and clarity.
+I'm a **React Native developer** specializing in building high-performance, cross-platform mobile apps with **TypeScript** and **clean architecture**. I focus on writing elegant, scalable code and delivering user-first experiences that solve real-world problems with precision and clarity.
 
 
 ---
