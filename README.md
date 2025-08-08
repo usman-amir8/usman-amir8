@@ -1,65 +1,62 @@
 # 👋 Hi, I'm Muhammad Usman Amir
 
-**React Native developer passionate about building seamless, scalable mobile apps that simplify everyday life.**  
-I specialize in TypeScript, clean architecture, and native integrations to deliver fast, reliable apps that users love and rely on.
+I’m a passionate **React Native developer** focused on building user-friendly, scalable mobile apps using **TypeScript** and **clean architecture**.  
+Currently diving deep into React Native, Expo, and modern state management to build real-world projects and sharpen my skills.
 
-> “Software should solve problems, not create them. I build user-first apps with maintainability and performance in mind.”
-
----
-
-## 🛠 Core Skills & Expertise
-
-| Category         | Skills & Tools                                    | Experience & Usage                                                                                  |
-|------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Mobile & Frontend | React Native, Expo, Redux, TypeScript            | 3+ years building production apps with real-time sync, offline-first features, and smooth UI/UX   |
-| Backend & DB     | Firebase (Auth, Firestore, Functions), MongoDB   | Designed secure backend APIs and real-time data sync for 10k+ active users                         |
-| Tools & Workflows | Git, GitHub Actions, VS Code, Postman, Figma     | Automated CI/CD pipelines, API testing, prototyping, and UI design                                |
+> “Learning by building, coding with purpose.”
 
 ---
 
-## 🚀 Featured Project: Medicine Reminder App
+## 🛠 Skills & Tools
 
-[GitHub repo](https://github.com/usman-amir8/Medicine-Reminder) | [Screenshots / Demo]
 
-- **Problem:** People often forget to take their medication, leading to health risks.  
-- **Solution:** A React Native app that uses smart scheduling, push notifications, and seamless tracking to help users stay on top of their meds.  
-- **My role:** Architected offline-first data sync using SQLite combined with Firebase for real-time updates. Developed background notification system ensuring timely reminders. Led accessible UI design focused on ease-of-use for all age groups.  
-- **Impact:** 500+ installs, 4.8⭐ average rating, and helped reduce missed medication doses by 30% among active users.
+| Category         | Skills & Tools                                                |
+|------------------|---------------------------------------------------------------|
+| Languages        | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  |
+| Mobile & Frontend| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  |
+| Backend & DB     | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  |
+| Tools            | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
-**Tech Stack:** React Native, Expo, TypeScript, SQLite, Firebase, Redux
+---
+
+## 🚀 Projects
+
+### Medicine Reminder App  
+[GitHub Repo](https://github.com/usman-amir8/Medicine-Reminder)
+
+
+- **Problem:** People often forget to take their medicines on time, which can lead to serious health issues.  
+- **Solution:** This app helps users track their medication schedules and sends real-time push notifications to remind them.  
+- Built using **Expo**, **React Native**, and **TypeScript** for the frontend, with **Firebase** powering the backend.  
+- Features smooth animations for a friendly user experience and reliable real-time notifications to keep users on track.
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced React Native performance optimizations (Hermes engine, lazy loading)  
-- Deep TypeScript mastery: generics, conditional types, and safer patterns  
-- Native module development with Swift for seamless iOS integrations
+- Advanced React Native concepts & performance optimizations  
+- Deepening TypeScript knowledge (types, interfaces, generics)  
+- Swift and native iOS module integration  
 
 ---
 
-## 🔗 Let’s Connect!
+## 🔗 Connect with Me
 
 - [LinkedIn](http://linkedin.com/in/usman-amir-dev)  
 - 📧 [usmanamir426@gmail.com](mailto:usmanamir426@gmail.com)  
 
-Open to collaborations, freelance gigs, or full-time opportunities. Feel free to reach out!
+I’m eager to collaborate, learn from experienced developers, and grow my skills through real projects and opportunities.
 
 ---
 
-## 💡 Developer Philosophy
+## 💡 My Developer Philosophy
 
-- Maintainable code > clever hacks.  
-- User-first means building intuitive, frictionless experiences.  
-- Anticipate problems with solid architecture before bugs appear.  
-- Great apps aren’t just coded — they’re designed, tested, and iterated constantly.
+- I believe maintainable code > clever code.  
+- I measure success by how effortlessly users can interact with what I build.  
+- X-Ray Vision for messy code — I see architecture patterns before the first bug appears.  
+- The best UI is the one users don’t have to think about.  
+- Great apps are not just coded — they're **designed**, **measured**, and **iterated**.
 
----
-
-## 📊 GitHub Stats
-
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-amir8&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-amir8&layout=compact&theme=radical)
 
 ---
 
