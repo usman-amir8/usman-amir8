@@ -6,11 +6,12 @@ I'm a **React Native developer** specializing in building high-performance, cros
 
 ## 🔍 About Me
 
-🌐 Cross-platform mobile developer focused on building performant apps using **React Native**, **TypeScript**, **Expo**, and modern state management tools like **Redux**.  
-💻 Frontend-first approach with an eye for **clean UI**, **scalable architecture**, and **smooth user interactions**.  
-📱 Experienced in native device APIs, push notifications, local databases like **SQLite**, and seamless deployment using **Firebase** and **MongoDB**.  
-🚀 Passionate about solving real-world problems through **elegant, user-centric mobile experiences**.  
-🔗 Let’s connect & explore my work below!
+🌐 **Cross-platform mobile developer** specializing in building high-performance apps with React Native, TypeScript, Expo, and cutting-edge state management like Redux.  
+💻 **Frontend-first mindset** focused on crafting clean, intuitive UIs, scalable architectures, and fluid user experiences.  
+📱 Deep expertise with native device APIs, push notifications, local storage solutions like SQLite, and seamless backend integrations using Firebase and MongoDB.  
+🚀 Driven by a passion for solving real-world challenges through elegant, user-centric mobile solutions.  
+🔗 Let’s connect and dive into my projects below!
+
 
 ---
 
@@ -66,11 +67,13 @@ An intelligent, user-centric medication reminder app built with React Native and
 
 ---
 
-## ⚡ Dev Superpowers
+## 🚀 Developer Philosophy
 
-- 🧠 I enjoy refactoring large, messy codebases into clean, testable architecture.
-- 🧪 Passionate about building apps that improve real-life problems — like health, productivity, and habits.
--  🧭 I reverse-engineer great apps for fun — breaking down their UI/UX and rebuilding them with my own twist.  
-- ☕ I sketch wireframes on napkins at coffee shops — because ideas don't wait for Figma.  
-- 🧩 I see bugs as puzzles, not problems — the more cryptic, the more satisfying to solve.
+- I believe maintainable code > clever code.  
+- I measure success by how effortlessly users can interact with what I build.  
+- X-Ray Vision for messy code — I see architecture patterns before the first bug appears.  
+- The best UI is the one users don’t have to think about.  
+- Great apps are not just coded — they're **designed**, **measured**, and **iterated**.
+
+
   
