@@ -66,7 +66,11 @@ An intelligent, user-centric medication reminder app built with React Native and
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Dev Superpowers
 
 - 🧠 I enjoy refactoring large, messy codebases into clean, testable architecture.
 - 🧪 Passionate about building apps that improve real-life problems — like health, productivity, and habits.
+-  🧭 I reverse-engineer great apps for fun — breaking down their UI/UX and rebuilding them with my own twist.  
+- ☕ I sketch wireframes on napkins at coffee shops — because ideas don't wait for Figma.  
+- 🧩 I see bugs as puzzles, not problems — the more cryptic, the more satisfying to solve.
+  
