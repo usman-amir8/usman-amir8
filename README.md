@@ -48,7 +48,7 @@ A smart mobile app that simplifies daily health routines through intelligent sch
 
 ### 🩺 [Medicine Reminder](https://github.com/usman-amir8/Medicine-Reminder)
 
-An intelligent, user-centric medication reminder app built with **React Native** and **Expo** — designed to simplify health routines through smart scheduling, real-time alerts, and seamless tracking for a healthier, stress-free life.
+An intelligent, user-centric medication reminder app built with React Native and Expo — designed to simplify health routines through smart scheduling, real-time alerts, and seamless tracking for a healthier, stress-free life.
 
 ---
 
