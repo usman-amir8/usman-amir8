@@ -17,6 +17,8 @@ I'm a **React Native developer** specializing in building high-performance, cros
 ## 🛠 Languages & Tools
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
@@ -43,7 +45,7 @@ A smart mobile app that simplifies daily health routines through intelligent sch
 ## 📘 I’m Currently Learning
 
 - 📱 Advanced **React Native** performance optimizations  
-- 🧪 **Testing** with **Jest** & **Detox**  
+- 🧠 Deep dive into **TypeScript advanced types** for safer, scalable code
 - 💡 **Swift** + native modules integration
 
 ---
@@ -66,7 +68,7 @@ An intelligent, user-centric medication reminder app built with **React Native**
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/usman-amir-dev)  
-📧 Email: [usman.amir.dev@gmail.com](mailto:usman.amir.dev@gmail.com)
+📧 Email: [usmanamir426@gmail.com](mailto:usmanamir426@gmail.com)
 
 ---
 
