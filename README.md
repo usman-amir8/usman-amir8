@@ -25,8 +25,8 @@ Currently diving deep into React Native, Expo, and modern state management to bu
 [GitHub Repo](https://github.com/usman-amir8/Medicine-Reminder)
 
 
-- **Problem:** People often forget to take their medicines on time, which can lead to serious health issues.  
-- **Solution:** This app helps users track their medication schedules and sends real-time push notifications to remind them.  
+- **Problem:** Missed doses and inconsistent medication routines put health and recovery at risk — yet, in busy daily life, remembering every pill at the right time can be surprisingly difficult.  
+- **Solution:** Turns medication into a perfectly timed habit with smart tracking, adaptive schedules, and real-time reminders — so every dose is always right on time.  
 - Built using **Expo**, **React Native**, and **TypeScript** for the frontend, with **Firebase** powering the backend.  
 - Features smooth animations for a friendly user experience and reliable real-time notifications to keep users on track.
 
