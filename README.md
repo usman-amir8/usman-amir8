@@ -27,8 +27,19 @@ Currently diving deep into React Native, Expo, and modern state management to bu
 
 - **Problem:** Missed doses and inconsistent medication routines put health and recovery at risk — yet, in busy daily life, remembering every pill at the right time can be surprisingly difficult.  
 - **Solution:** Turns medication into a perfectly timed habit with smart tracking, adaptive schedules, and real-time reminders — so every dose is always right on time.  
-- Built using **Expo**, **React Native**, and **TypeScript** for the frontend, with **Firebase** powering the backend.  
+- Built using **Expo**, **React Native**, and **TypeScript** for the frontend, with **Firebase** powering the backend and **Cloudinary** for image uploads.
 - Features smooth animations for a friendly user experience and reliable real-time notifications to keep users on track.
+
+---
+
+### Apartment Rental App  
+[GitHub Repo](https://github.com/usman-amir8/Apartment-Rental) <!-- Replace with actual repo link -->
+
+- **Problem:** Apartment rental platforms need to securely manage multiple user roles, provide up-to-date listings, and support offline access in case of network issues.  
+- **Solution:** Implements secure authentication with user roles (Realtors vs. Regular users), role-based functionality, offline caching, and safe authorization — ensuring a reliable and secure experience.  
+- Built using **React Native**, **Expo Router**, and **TypeScript** for the frontend, with **Firebase & Firestore** as backend services.  
+- Features realtor-only CRUD operations, user browsing & filtering, apartment details with images, offline access, and secure input validation.
+
 
 ---
 
@@ -60,10 +71,10 @@ I’m eager to collaborate, learn from experienced developers, and grow my skill
 
 ---
 
-## 🛠 How to run Medicine Reminder locally
+## 📊 GitHub Stats
 
-```bash
-git clone https://github.com/usman-amir8/Medicine-Reminder.git
-cd Medicine-Reminder
-npm install
-expo start
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-amir8&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-amir8&layout=compact&theme=radical)
+
+---
+
