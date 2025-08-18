@@ -32,7 +32,7 @@ Currently diving deep into React Native, Expo, and modern state management to bu
 
 ---
 
-### Apartment Rental App  
+### Apartment Hub  
 [GitHub Repo](https://github.com/usman-amir8/Apartment-Hub) 
 
 - **Problem:** Apartment rental platforms need to securely manage multiple user roles, provide up-to-date listings, and support offline access in case of network issues.  
